@@ -14,3 +14,9 @@ source env/bin/activate (mac)
 source env\Scripts\activate.bat (win)
 pip install -r requirements.txt
 ```
+
+## Classifiers
+
+### SVC Linear Classifier
+
+### TF Classifier
